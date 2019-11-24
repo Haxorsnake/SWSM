@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWSM", "SWSM\SWSM.csproj", "{DDC35F82-EE6E-47C7-8BA5-49A208E3155B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC35F82-EE6E-47C7-8BA5-49A208E3155B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC35F82-EE6E-47C7-8BA5-49A208E3155B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC35F82-EE6E-47C7-8BA5-49A208E3155B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC35F82-EE6E-47C7-8BA5-49A208E3155B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41BF9EA-35D4-44B1-8548-93FC69AE8029}
+	EndGlobalSection
+EndGlobal
